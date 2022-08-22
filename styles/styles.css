@@ -2,4 +2,9 @@ body {
     color: maroon;
     background-color: lightgray;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+}
+
+#p1{
+    color: blue;
 }
